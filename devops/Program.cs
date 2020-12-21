@@ -14,6 +14,7 @@ namespace devops
         public static void Main(string[] args)
         {
             // vs code git repository connetion
+            // pulling from git repository
             CreateHostBuilder(args).Build().Run();
         }
 
